@@ -1,7 +1,8 @@
 # Trader Behavior vs Market Sentiment (Fear & Greed Index)
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_NOTEBOOK_LINK)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1xL-CdjfxRAy37HnIJRWaCcDJ7WuOyhWq/view?usp=sharing)
+
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Dataset](https://img.shields.io/badge/Dataset-Available-orange)](YOUR_DATASET_LINK)
 
